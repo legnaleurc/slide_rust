@@ -61,7 +61,7 @@ body {
 }
 
 .slide > .body > p {
-  white-space: nowrap;
+  /*white-space: nowrap;*/
   margin: 2vmin;
 }
 
